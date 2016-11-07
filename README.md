@@ -1,5 +1,5 @@
 # tmpljs
-
+## Please send pull request for any handlers you'd like to add
 ## Log
 The problem:
 ```
