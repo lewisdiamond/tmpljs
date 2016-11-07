@@ -1,6 +1,6 @@
 {
   "name": "tmpljs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of template literal handlers",
   "main": "index.js",
   "scripts": {
